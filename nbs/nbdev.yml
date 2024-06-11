@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "salesforce-data-export-csv"
+  site-url: "https://Karthik-bics.github.io/salesforce-data-export-csv"
+  description: "Export Salesforce Object Data as CSV using SOQL"
+  repo-branch: main
+  repo-url: "https://github.com/Karthik-bics/salesforce-data-export-csv"
